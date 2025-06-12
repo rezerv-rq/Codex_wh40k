@@ -1,0 +1,30 @@
+E:\da\final wh codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.exe
+E:\da\final wh codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.deps.json
+E:\da\final wh codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.runtimeconfig.json
+E:\da\final wh codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.dll
+E:\da\final wh codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.pdb
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.GeneratedMSBuildEditorConfig.editorconfig
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.AssemblyInfoInputs.cache
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.AssemblyInfo.cs
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.csproj.CoreCompileInputs.cache
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.sourcelink.json
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.dll
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\refint\pdftomd.dll
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.pdb
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.genruntimeconfig.cache
+E:\da\final wh codex\codex_wh40k\pdftomd\obj\Debug\net9.0\ref\pdftomd.dll
+e:\da\final_wh_codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.exe
+e:\da\final_wh_codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.deps.json
+e:\da\final_wh_codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.runtimeconfig.json
+e:\da\final_wh_codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.dll
+e:\da\final_wh_codex\codex_wh40k\pdftomd\bin\Debug\net9.0\pdftomd.pdb
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.GeneratedMSBuildEditorConfig.editorconfig
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.AssemblyInfoInputs.cache
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.AssemblyInfo.cs
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.csproj.CoreCompileInputs.cache
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.sourcelink.json
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.dll
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\refint\pdftomd.dll
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.pdb
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\pdftomd.genruntimeconfig.cache
+e:\da\final_wh_codex\codex_wh40k\pdftomd\obj\Debug\net9.0\ref\pdftomd.dll

@@ -13,3 +13,12 @@ codex_9th/War_Zone/*.pdf filter=lfs diff=lfs merge=lfs -text
 codex_9th/Xenos/*.pdf filter=lfs diff=lfs merge=lfs -text
 codex_9th/Rulebook_9e.pdf filter=lfs diff=lfs merge=lfs -text
 codex_9th/other_book/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/09.05.25/codex_faq_&_errata_10th/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/09.05.25/combat_patrol_10th/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/09.05.25/core_rules_and_key_10th/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/09.05.25/crusade_10th/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/09.05.25/imperial_armour_10th/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/09.05.25/indexes_10th/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/09.05.25/legends_10th/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/09.05.25/other_rules_10th/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/15.05.25(upd)/*.pdf filter=lfs diff=lfs merge=lfs -text

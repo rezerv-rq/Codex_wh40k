@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pdftomd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdeb3cab4b9338c7c7e3c9e2ef9078341533921d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94a54036bd12d9d46cf26d4b69fd5253deefe550")]
 [assembly: System.Reflection.AssemblyProductAttribute("pdftomd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pdftomd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

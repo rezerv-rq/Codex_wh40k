@@ -26,3 +26,16 @@ codex_8th/Rulebook_Warhammer_40000_(8edition).pdf filter=lfs diff=lfs merge=lfs 
 codex_8th/Chaos/*.pdf filter=lfs diff=lfs merge=lfs -text
 codex_8th/Compaigns_and_Expansions/*.pdf filter=lfs diff=lfs merge=lfs -text
 codex_8th/Imperium/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/18.06.25(upd)/*.pdf filter=lfs diff=lfs merge=lfs -text
+official_downloads(outdated)/04.06.25(upd)/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Xenos/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Imperium/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Crusade/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Chaos/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_9th/Arks_of_Omen/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_9th/Chaos/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_9th/Chapter_Approved/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_9th/Crusade/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_9th/Imperium/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_9th/other_book/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
+codex_9th/Xenos/compressed/*.pdf filter=lfs diff=lfs merge=lfs -text
